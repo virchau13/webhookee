@@ -3,7 +3,7 @@
 A simple webhook receiver.
 
 ## Usage
-Execute `webhookee` and it will simply run until you terminate it.
+Execute `webhookee` and it will simply run until you terminate it. By default, `webhookee` will output its logs to standard output - this can be changed by specifying the `--log-file <file>` option.
 
 ## Configuration 
 
